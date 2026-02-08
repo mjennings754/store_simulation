@@ -1,0 +1,14 @@
+[
+  {
+    "department": "Men",
+    "division": 31,
+    "itemcode": 451905,
+    "name": "Acme Fleece Jacket",
+    "season": "25FW",
+    "material": "Fleece",
+    "price": 49.9,
+    "limited_offer": false,
+    "sale": false,
+    "stock": 194
+  }
+]
