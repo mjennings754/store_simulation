@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "9d527399-7370-439e-8d62-046e5c921fd6",
+    "timestamp": "2026-02-08T22:19:51.855345",
+    "item": "Acme T-shirt",
+    "itemcode": 442110,
+    "quantity": 2,
+    "price": "29.90",
+    "total": "59.80",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "22421f14-5819-475f-bed4-ff69ee75c140",
+    "timestamp": "2026-02-08T22:19:51.855361",
+    "item": "Acme T-shirt",
+    "itemcode": 451908,
+    "quantity": 2,
+    "price": "29.90",
+    "total": "59.80",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "86a78c7b-20c8-4a7d-90e6-cd25644aacdf",
+    "timestamp": "2026-02-08T22:19:51.855368",
+    "item": "Acme T-shirt",
+    "itemcode": 416332,
+    "quantity": 3,
+    "price": "29.90",
+    "total": "89.70",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "e65902ef-3d66-417c-8897-46a1ea5a0a9f",
+    "timestamp": "2026-02-08T22:19:51.855373",
+    "item": "Acme T-shirt",
+    "itemcode": 498898,
+    "quantity": 1,
+    "price": "29.90",
+    "total": "29.90",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "5fc30e05-b16b-464a-b39f-3e193163c2bd",
+    "timestamp": "2026-02-08T22:19:51.855378",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 430443,
+    "quantity": 1,
+    "price": "49.90",
+    "total": "49.90",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "2728ba00-3569-4aef-b960-f508cf3681bf",
+    "timestamp": "2026-02-08T22:19:51.855382",
+    "item": "Acme Chino Shorts",
+    "itemcode": 489766,
+    "quantity": 8,
+    "price": "39.90",
+    "total": "319.20",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "b4026950-f6d2-4be7-b0c9-c1af52781f54",
+    "timestamp": "2026-02-08T22:19:51.855388",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 405610,
+    "quantity": 2,
+    "price": "49.90",
+    "total": "99.80",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "57361fb3-a470-4cc0-993c-2d1fa061d54b",
+    "timestamp": "2026-02-08T22:19:51.855392",
+    "item": "Acme T-shirt",
+    "itemcode": 460151,
+    "quantity": 4,
+    "price": "29.90",
+    "total": "119.60",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "a2558f49-cd1a-4e1b-abf1-f2cb91fed676",
+    "timestamp": "2026-02-08T22:19:51.855396",
+    "item": "Acme T-shirt",
+    "itemcode": 418870,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "ae0f015c-9245-4997-bfd2-174e9d659d66",
+    "timestamp": "2026-02-08T22:19:51.855400",
+    "item": "Acme T-shirt",
+    "itemcode": 429864,
+    "quantity": 2,
+    "price": "29.90",
+    "total": "59.80",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "c99e8c77-e6b4-444f-8f17-9611fa770d35",
+    "timestamp": "2026-02-08T22:19:51.855404",
+    "item": "Acme T-shirt",
+    "itemcode": 451136,
+    "quantity": 6,
+    "price": "29.90",
+    "total": "179.40",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "5d7be132-2915-4242-97b7-48bb3edd9941",
+    "timestamp": "2026-02-08T22:19:51.855408",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 458798,
+    "quantity": 1,
+    "price": "49.90",
+    "total": "49.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "0eac8df0-ec57-40c5-b8d0-1e33db56606d",
+    "timestamp": "2026-02-08T22:19:51.855412",
+    "item": "Acme T-shirt",
+    "itemcode": 483630,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "70819228-d892-4492-9cb2-bada0f315475",
+    "timestamp": "2026-02-08T22:19:51.855416",
+    "item": "Acme T-shirt",
+    "itemcode": 412629,
+    "quantity": 6,
+    "price": "29.90",
+    "total": "179.40",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "bd6c2a57-0cf7-4229-89d4-355f88d0a60f",
+    "timestamp": "2026-02-08T22:19:51.855420",
+    "item": "Acme Chino Shorts",
+    "itemcode": 440524,
+    "quantity": 1,
+    "price": "39.90",
+    "total": "39.90",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "8af648d7-0743-47a0-8cb5-772d272c6f6a",
+    "timestamp": "2026-02-08T22:19:51.855423",
+    "item": "Acme Chino Shorts",
+    "itemcode": 471101,
+    "quantity": 4,
+    "price": "39.90",
+    "total": "159.60",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "b1faa64b-4bd6-489e-bc37-a3678bfae285",
+    "timestamp": "2026-02-08T22:19:51.855427",
+    "item": "Acme Chino Shorts",
+    "itemcode": 448302,
+    "quantity": 11,
+    "price": "39.90",
+    "total": "438.90",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "52feb110-e2a6-4a11-b5f4-fe552f670900",
+    "timestamp": "2026-02-08T22:19:51.855431",
+    "item": "Acme T-shirt",
+    "itemcode": 406550,
+    "quantity": 6,
+    "price": "29.90",
+    "total": "179.40",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "a7b832b0-1f3f-4be7-9ac8-ed165e447d52",
+    "timestamp": "2026-02-08T22:19:51.855435",
+    "item": "Acme T-shirt",
+    "itemcode": 486148,
+    "quantity": 11,
+    "price": "29.90",
+    "total": "328.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "e8b8090e-81c9-4a05-8d63-e449e0342483",
+    "timestamp": "2026-02-08T22:19:51.855439",
+    "item": "Acme Chino Shorts",
+    "itemcode": 462269,
+    "quantity": 10,
+    "price": "39.90",
+    "total": "399.00",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "8502d72a-b218-4a71-81cd-b37d3c9a7c9c",
+    "timestamp": "2026-02-08T22:19:51.855444",
+    "item": "Acme Chino Shorts",
+    "itemcode": 410850,
+    "quantity": 7,
+    "price": "39.90",
+    "total": "279.30",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "973e62e1-0cee-40eb-8203-9002e40597b0",
+    "timestamp": "2026-02-08T22:19:51.855448",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 431162,
+    "quantity": 11,
+    "price": "49.90",
+    "total": "548.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "7a943ace-f2ec-46a2-96d5-ba7758035adf",
+    "timestamp": "2026-02-08T22:19:51.855451",
+    "item": "Acme T-shirt",
+    "itemcode": 488977,
+    "quantity": 7,
+    "price": "29.90",
+    "total": "209.30",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "620ca9d2-9646-451a-bd4c-3f735dde9789",
+    "timestamp": "2026-02-08T22:19:51.855455",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 433805,
+    "quantity": 11,
+    "price": "49.90",
+    "total": "548.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "82a37af4-3a9f-4e0d-aaa4-d151f7846c4a",
+    "timestamp": "2026-02-08T22:19:51.855459",
+    "item": "Acme Chino Shorts",
+    "itemcode": 406765,
+    "quantity": 6,
+    "price": "39.90",
+    "total": "239.40",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "83a2cf42-c14c-4ea0-8db2-2fddc806ec0c",
+    "timestamp": "2026-02-08T22:19:51.855463",
+    "item": "Acme T-shirt",
+    "itemcode": 425314,
+    "quantity": 5,
+    "price": "29.90",
+    "total": "149.50",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "edc8b8d6-c1da-482c-b0f0-56aa0ddc0446",
+    "timestamp": "2026-02-08T22:19:51.855467",
+    "item": "Acme Chino Shorts",
+    "itemcode": 402797,
+    "quantity": 5,
+    "price": "39.90",
+    "total": "199.50",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "d10d8b71-6925-42ef-b6a2-fbb11acdc1db",
+    "timestamp": "2026-02-08T22:19:51.855471",
+    "item": "Acme T-shirt",
+    "itemcode": 435314,
+    "quantity": 6,
+    "price": "29.90",
+    "total": "179.40",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "f5fc4483-45fc-41f3-920e-6ba9a42b3be5",
+    "timestamp": "2026-02-08T22:19:51.855475",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 445898,
+    "quantity": 4,
+    "price": "49.90",
+    "total": "199.60",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "e61fcd4b-2f34-4db8-aafb-615f5b97fbc8",
+    "timestamp": "2026-02-08T22:19:51.855478",
+    "item": "Acme Chino Shorts",
+    "itemcode": 436214,
+    "quantity": 10,
+    "price": "39.90",
+    "total": "399.00",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "754f3132-eecc-4a2c-b92c-5b644f920425",
+    "timestamp": "2026-02-08T22:19:51.855482",
+    "item": "Acme T-shirt",
+    "itemcode": 408120,
+    "quantity": 2,
+    "price": "29.90",
+    "total": "59.80",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "7af05236-d610-48de-b54a-a18e2b648155",
+    "timestamp": "2026-02-08T22:19:51.855486",
+    "item": "Acme T-shirt",
+    "itemcode": 492396,
+    "quantity": 10,
+    "price": "29.90",
+    "total": "299.00",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "7de418fc-025d-46ed-9724-9d89ee946595",
+    "timestamp": "2026-02-08T22:19:51.855490",
+    "item": "Acme Chino Shorts",
+    "itemcode": 432153,
+    "quantity": 1,
+    "price": "39.90",
+    "total": "39.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "ac1b7bd7-27d1-4654-92af-68e806a2f367",
+    "timestamp": "2026-02-08T22:19:51.855493",
+    "item": "Acme T-shirt",
+    "itemcode": 430762,
+    "quantity": 2,
+    "price": "29.90",
+    "total": "59.80",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "fd2d082e-5229-466c-a4df-39b6f24b0158",
+    "timestamp": "2026-02-08T22:19:51.855497",
+    "item": "Acme Chino Shorts",
+    "itemcode": 462208,
+    "quantity": 10,
+    "price": "39.90",
+    "total": "399.00",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "6a70cd1c-0b17-4660-8b87-01ddc005956b",
+    "timestamp": "2026-02-08T22:19:51.855501",
+    "item": "Acme Chino Shorts",
+    "itemcode": 488142,
+    "quantity": 1,
+    "price": "39.90",
+    "total": "39.90",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "c53136b1-a4b1-4a56-895b-9688270be7f4",
+    "timestamp": "2026-02-08T22:19:51.855505",
+    "item": "Acme Chino Shorts",
+    "itemcode": 439891,
+    "quantity": 3,
+    "price": "39.90",
+    "total": "119.70",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "d2d577a0-6f09-499d-aaaf-2e2f715a99c0",
+    "timestamp": "2026-02-08T22:19:51.855508",
+    "item": "Acme T-shirt",
+    "itemcode": 442466,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "572dc0f9-a6fe-4910-9688-9e6b5c2c07c5",
+    "timestamp": "2026-02-08T22:19:51.855512",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 405130,
+    "quantity": 5,
+    "price": "49.90",
+    "total": "249.50",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "55fd65d7-24b5-4bb0-9b74-71fcaf10228a",
+    "timestamp": "2026-02-08T22:19:51.855516",
+    "item": "Acme Chino Shorts",
+    "itemcode": 412258,
+    "quantity": 1,
+    "price": "39.90",
+    "total": "39.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "addf03c5-50a7-43d1-bbc1-4433da8e87fe",
+    "timestamp": "2026-02-08T22:19:51.855520",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 400187,
+    "quantity": 3,
+    "price": "49.90",
+    "total": "149.70",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "f6960e1b-4d63-4f10-9d21-3334f9df7133",
+    "timestamp": "2026-02-08T22:19:51.855524",
+    "item": "Acme Chino Shorts",
+    "itemcode": 473335,
+    "quantity": 1,
+    "price": "39.90",
+    "total": "39.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "c9db47a1-0971-43d2-bd13-206d60553954",
+    "timestamp": "2026-02-08T22:19:51.855528",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 499067,
+    "quantity": 1,
+    "price": "49.90",
+    "total": "49.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "385a7f4f-e9be-4362-91c1-94387f392c6e",
+    "timestamp": "2026-02-08T22:19:51.855532",
+    "item": "Acme T-shirt",
+    "itemcode": 494460,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "d026eebc-8495-438a-8bd2-990ca988ae5a",
+    "timestamp": "2026-02-08T22:19:51.855536",
+    "item": "Acme T-shirt",
+    "itemcode": 496065,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "d33e3cfd-8622-432a-ab8c-aa2c7dc19a31",
+    "timestamp": "2026-02-08T22:19:51.855539",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 474019,
+    "quantity": 8,
+    "price": "49.90",
+    "total": "399.20",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "50296d9c-9f85-410e-8e87-3b42023887fe",
+    "timestamp": "2026-02-08T22:19:51.855543",
+    "item": "Acme T-shirt",
+    "itemcode": 418604,
+    "quantity": 9,
+    "price": "29.90",
+    "total": "269.10",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "7e32a1fd-f800-46b1-8a54-abdd9f1fcf68",
+    "timestamp": "2026-02-08T22:19:51.855547",
+    "item": "Acme Chino Shorts",
+    "itemcode": 451747,
+    "quantity": 9,
+    "price": "39.90",
+    "total": "359.10",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "9dd807c3-5760-4b35-b1bf-68f39259f5d5",
+    "timestamp": "2026-02-08T22:19:51.855551",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 423862,
+    "quantity": 4,
+    "price": "49.90",
+    "total": "199.60",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "2b9ed45e-c65a-4c6c-a32d-90e746424690",
+    "timestamp": "2026-02-08T22:19:51.855554",
+    "item": "Acme Chino Shorts",
+    "itemcode": 476312,
+    "quantity": 10,
+    "price": "39.90",
+    "total": "399.00",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "b09e09e5-18d5-4a47-9ac7-f67eafdbef18",
+    "timestamp": "2026-02-08T22:19:51.855558",
+    "item": "Acme T-shirt",
+    "itemcode": 423320,
+    "quantity": 1,
+    "price": "29.90",
+    "total": "29.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "02b28230-4993-47f1-a7d1-b8487d692f30",
+    "timestamp": "2026-02-08T22:19:51.855562",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 487768,
+    "quantity": 10,
+    "price": "49.90",
+    "total": "499.00",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "4e63e014-6482-4321-a321-4b84033c76c9",
+    "timestamp": "2026-02-08T22:19:51.855565",
+    "item": "Acme Chino Shorts",
+    "itemcode": 480477,
+    "quantity": 7,
+    "price": "39.90",
+    "total": "279.30",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "405280a4-1a56-4063-b437-d9f9ccd25570",
+    "timestamp": "2026-02-08T22:19:51.855569",
+    "item": "Acme T-shirt",
+    "itemcode": 446380,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "f1208fbd-784c-4ee6-9b10-7e9e176f407f",
+    "timestamp": "2026-02-08T22:19:51.855573",
+    "item": "Acme Chino Shorts",
+    "itemcode": 432506,
+    "quantity": 2,
+    "price": "39.90",
+    "total": "79.80",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "3d716050-2104-4989-a0ba-31c0bace4d85",
+    "timestamp": "2026-02-08T22:19:51.855577",
+    "item": "Acme T-shirt",
+    "itemcode": 432391,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "6a45e6b9-1e8f-4462-87d6-1b588f140680",
+    "timestamp": "2026-02-08T22:19:51.855581",
+    "item": "Acme Chino Shorts",
+    "itemcode": 412110,
+    "quantity": 2,
+    "price": "39.90",
+    "total": "79.80",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "6257e942-4666-4404-886a-44ceae8cdbed",
+    "timestamp": "2026-02-08T22:19:51.855585",
+    "item": "Acme T-shirt",
+    "itemcode": 488935,
+    "quantity": 11,
+    "price": "29.90",
+    "total": "328.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "942303ae-3573-4b34-9bc2-e4fd97d92c51",
+    "timestamp": "2026-02-08T22:19:51.855590",
+    "item": "Acme T-shirt",
+    "itemcode": 402360,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "500812fb-8a5d-4b64-8860-d900b4ef9414",
+    "timestamp": "2026-02-08T22:19:51.855594",
+    "item": "Acme T-shirt",
+    "itemcode": 486155,
+    "quantity": 1,
+    "price": "29.90",
+    "total": "29.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "241fa754-32a5-4a58-a380-c7b931412fac",
+    "timestamp": "2026-02-08T22:19:51.855597",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 489400,
+    "quantity": 9,
+    "price": "49.90",
+    "total": "449.10",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "be474b3c-9b81-4b83-b039-8cbdc60aaf37",
+    "timestamp": "2026-02-08T22:19:51.855601",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 401469,
+    "quantity": 2,
+    "price": "49.90",
+    "total": "99.80",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "09cdd2ef-e97e-4380-b3b4-c6b1c4488f8c",
+    "timestamp": "2026-02-08T22:19:51.855605",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 479107,
+    "quantity": 3,
+    "price": "49.90",
+    "total": "149.70",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "07689716-c9c2-44d3-9c30-f03fffdc95c4",
+    "timestamp": "2026-02-08T22:19:51.855609",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 435077,
+    "quantity": 2,
+    "price": "49.90",
+    "total": "99.80",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "20180275-396f-4432-abad-c8a1f1f36b2b",
+    "timestamp": "2026-02-08T22:19:51.855613",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 417471,
+    "quantity": 1,
+    "price": "49.90",
+    "total": "49.90",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "ca4be13a-35eb-48d6-9897-6286002b4b9b",
+    "timestamp": "2026-02-08T22:19:51.855617",
+    "item": "Acme Chino Shorts",
+    "itemcode": 467960,
+    "quantity": 2,
+    "price": "39.90",
+    "total": "79.80",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "e7d5922c-fee4-46a2-a228-343015b38fde",
+    "timestamp": "2026-02-08T22:19:51.855620",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 465293,
+    "quantity": 8,
+    "price": "49.90",
+    "total": "399.20",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "cb779762-8c78-44aa-95a4-f0d8985c6a40",
+    "timestamp": "2026-02-08T22:19:51.855624",
+    "item": "Acme Chino Shorts",
+    "itemcode": 494852,
+    "quantity": 7,
+    "price": "39.90",
+    "total": "279.30",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "ba63b58a-5554-4f96-a18c-ae4ebc28db82",
+    "timestamp": "2026-02-08T22:19:51.855628",
+    "item": "Acme T-shirt",
+    "itemcode": 462619,
+    "quantity": 7,
+    "price": "29.90",
+    "total": "209.30",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "d546b99f-5cd1-4a15-af80-a882d7c9be9d",
+    "timestamp": "2026-02-08T22:19:51.855631",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 484069,
+    "quantity": 10,
+    "price": "49.90",
+    "total": "499.00",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "2dec97e8-a22b-4542-a3d0-e0bd4c78808a",
+    "timestamp": "2026-02-08T22:19:51.855635",
+    "item": "Acme Chino Shorts",
+    "itemcode": 483245,
+    "quantity": 5,
+    "price": "39.90",
+    "total": "199.50",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "4164bb90-7699-4d9c-b5bb-2f10d12dec61",
+    "timestamp": "2026-02-08T22:19:51.855639",
+    "item": "Acme T-shirt",
+    "itemcode": 456345,
+    "quantity": 5,
+    "price": "29.90",
+    "total": "149.50",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "e133c30c-c82b-4177-9db5-ed370fc274d2",
+    "timestamp": "2026-02-08T22:19:51.855642",
+    "item": "Acme Chino Shorts",
+    "itemcode": 444082,
+    "quantity": 7,
+    "price": "39.90",
+    "total": "279.30",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "b5659c2c-815a-4f1d-8e07-9d84a4272b80",
+    "timestamp": "2026-02-08T22:19:51.855646",
+    "item": "Acme Chino Shorts",
+    "itemcode": 455803,
+    "quantity": 10,
+    "price": "39.90",
+    "total": "399.00",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "90cd6e67-de2d-4709-adde-07c4a88af5fc",
+    "timestamp": "2026-02-08T22:19:51.855650",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 442589,
+    "quantity": 6,
+    "price": "49.90",
+    "total": "299.40",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "8842f05a-4d89-45e7-a01b-11598e744198",
+    "timestamp": "2026-02-08T22:19:51.855654",
+    "item": "Acme Chino Shorts",
+    "itemcode": 437946,
+    "quantity": 9,
+    "price": "39.90",
+    "total": "359.10",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "5221068a-1ef8-41af-9528-b5f6295748f5",
+    "timestamp": "2026-02-08T22:19:51.855657",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 449313,
+    "quantity": 1,
+    "price": "49.90",
+    "total": "49.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "9468722a-3fe9-4701-a376-72196b1940bb",
+    "timestamp": "2026-02-08T22:19:51.855661",
+    "item": "Acme Chino Shorts",
+    "itemcode": 439269,
+    "quantity": 2,
+    "price": "39.90",
+    "total": "79.80",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "0a55d43d-a290-470a-93a0-253f6df0b830",
+    "timestamp": "2026-02-08T22:19:51.855665",
+    "item": "Acme T-shirt",
+    "itemcode": 494019,
+    "quantity": 5,
+    "price": "29.90",
+    "total": "149.50",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "9af78a15-3ce4-499b-8ff5-07c59489bc48",
+    "timestamp": "2026-02-08T22:19:51.855669",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 420310,
+    "quantity": 6,
+    "price": "49.90",
+    "total": "299.40",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "ecca2ee8-2565-49a0-b676-3133bd6ee9de",
+    "timestamp": "2026-02-08T22:19:51.855673",
+    "item": "Acme T-shirt",
+    "itemcode": 426700,
+    "quantity": 1,
+    "price": "29.90",
+    "total": "29.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "765a26e3-d5b9-4042-a3fd-9efad111fab8",
+    "timestamp": "2026-02-08T22:19:51.855676",
+    "item": "Acme T-shirt",
+    "itemcode": 493124,
+    "quantity": 5,
+    "price": "29.90",
+    "total": "149.50",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "f809c21d-4fbb-4f64-bc56-3bcd217431e8",
+    "timestamp": "2026-02-08T22:19:51.855680",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 428315,
+    "quantity": 2,
+    "price": "49.90",
+    "total": "99.80",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "c1276c2c-2b0f-46d5-a16c-60981f3276de",
+    "timestamp": "2026-02-08T22:19:51.855684",
+    "item": "Acme T-shirt",
+    "itemcode": 433303,
+    "quantity": 5,
+    "price": "29.90",
+    "total": "149.50",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "835dc874-8330-4d30-a0a4-7c22f81dc632",
+    "timestamp": "2026-02-08T22:19:51.855689",
+    "item": "Acme T-shirt",
+    "itemcode": 453235,
+    "quantity": 8,
+    "price": "29.90",
+    "total": "239.20",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "18d76dbe-7a3a-401d-90b6-cdad88eccce1",
+    "timestamp": "2026-02-08T22:19:51.855694",
+    "item": "Acme Chino Shorts",
+    "itemcode": 415795,
+    "quantity": 3,
+    "price": "39.90",
+    "total": "119.70",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "cef53108-f778-414a-8476-b6504d553ae8",
+    "timestamp": "2026-02-08T22:19:51.855698",
+    "item": "Acme Chino Shorts",
+    "itemcode": 424507,
+    "quantity": 6,
+    "price": "39.90",
+    "total": "239.40",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "863865a2-7120-44e9-a765-b8cb08239887",
+    "timestamp": "2026-02-08T22:19:51.855702",
+    "item": "Acme Chino Shorts",
+    "itemcode": 478313,
+    "quantity": 11,
+    "price": "39.90",
+    "total": "438.90",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "89dd6756-0e72-4e66-8324-c8a56685da33",
+    "timestamp": "2026-02-08T22:19:51.855706",
+    "item": "Acme Chino Shorts",
+    "itemcode": 479942,
+    "quantity": 4,
+    "price": "39.90",
+    "total": "159.60",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "00489216-59f2-43e7-8077-f939ae9d0ff5",
+    "timestamp": "2026-02-08T22:19:51.855710",
+    "item": "Acme Chino Shorts",
+    "itemcode": 433847,
+    "quantity": 9,
+    "price": "39.90",
+    "total": "359.10",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "17cb59aa-ce04-4c1b-b233-43555b2e5964",
+    "timestamp": "2026-02-08T22:19:51.855714",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 420008,
+    "quantity": 3,
+    "price": "49.90",
+    "total": "149.70",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "f78f09a5-f318-44bf-8535-95daa89d8d67",
+    "timestamp": "2026-02-08T22:19:51.855717",
+    "item": "Acme T-shirt",
+    "itemcode": 422755,
+    "quantity": 1,
+    "price": "29.90",
+    "total": "29.90",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "5c72291c-2b28-4bc6-9139-6d7bd74cb7af",
+    "timestamp": "2026-02-08T22:19:51.855721",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 477447,
+    "quantity": 1,
+    "price": "49.90",
+    "total": "49.90",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "638af7ee-391c-4b5a-8cc5-f7d91421379d",
+    "timestamp": "2026-02-08T22:19:51.855725",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 417438,
+    "quantity": 9,
+    "price": "49.90",
+    "total": "449.10",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "786553c4-7d41-4be7-a21a-6e6dd4485b33",
+    "timestamp": "2026-02-08T22:19:51.855729",
+    "item": "Acme T-shirt",
+    "itemcode": 470303,
+    "quantity": 7,
+    "price": "29.90",
+    "total": "209.30",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "19ff7709-5992-4195-8496-e9fb5b094d7f",
+    "timestamp": "2026-02-08T22:19:51.855733",
+    "item": "Acme Chino Shorts",
+    "itemcode": 420815,
+    "quantity": 6,
+    "price": "39.90",
+    "total": "239.40",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "0dda1f8e-8fd1-4402-9552-ed8e450497e2",
+    "timestamp": "2026-02-08T22:19:51.855737",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 480707,
+    "quantity": 5,
+    "price": "49.90",
+    "total": "249.50",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "6c8e3c26-b7a2-4b35-b05b-7afffe3cb1f3",
+    "timestamp": "2026-02-08T22:19:51.855741",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 463462,
+    "quantity": 3,
+    "price": "49.90",
+    "total": "149.70",
+    "payment_type": "Cash"
+  },
+  {
+    "id": "ff411538-27a7-4346-a18b-f3d34a17eb3e",
+    "timestamp": "2026-02-08T22:19:51.855746",
+    "item": "Acme Fleece Jacket",
+    "itemcode": 421453,
+    "quantity": 3,
+    "price": "49.90",
+    "total": "149.70",
+    "payment_type": "Credit Card"
+  },
+  {
+    "id": "bac054db-24fd-494a-ab2a-b03e3fca0e5d",
+    "timestamp": "2026-02-08T22:19:51.855749",
+    "item": "Acme Chino Shorts",
+    "itemcode": 437755,
+    "quantity": 9,
+    "price": "39.90",
+    "total": "359.10",
+    "payment_type": "Cash"
+  }
+]
